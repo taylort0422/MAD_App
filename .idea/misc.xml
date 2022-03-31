@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Josh/AndroidStudioProjects/MADAssignment01/app/src/main/res/layout/activity_assign_tasks.xml" value="0.2" />
+        <entry key="..\:/Users/Josh/AndroidStudioProjects/MADAssignment01/app/src/main/res/layout/activity_employee.xml" value="0.264" />
+        <entry key="..\:/Users/Josh/AndroidStudioProjects/MADAssignment01/app/src/main/res/layout/activity_main.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Taylor/Documents/SET year 2/MAD/MADAssignment01/app/src/main/res/layout/activity_assign_tasks.xml" value="0.25" />
+        <entry key="..\:/Users/Taylor/Documents/SET year 2/MAD/MADAssignment01/app/src/main/res/layout/activity_employee.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/Taylor/Documents/SET year 2/MAD/MADAssignment01/app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/thatd/Desktop/my epic website/MADAssignment01/app/src/main/res/layout/activity_assign_tasks.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/thatd/Desktop/my epic website/MADAssignment01/app/src/main/res/layout/activity_employee.xml" value="0.4930817610062893" />
+        <entry key="..\:/Users/thatd/Desktop/my epic website/MADAssignment01/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/activity_assign_tasks.xml" value="0.1" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/activity_employee.xml" value="0.264" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/activity_weather.xml" value="0.264" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/activity_weather_detail.xml" value="0.264" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/layout/listview_item.xml" value="0.264" />
+        <entry key="..\:/Users/wills/Desktop/Classes/Level 4/MAD/Assignment01/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

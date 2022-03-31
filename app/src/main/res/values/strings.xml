@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MADAssign01</string>
+    <string name="lblEmployeeTxt">Employees:</string>
+    <string name="btnAssignNewTaskText">Assign New Task</string>
+    <string name="btnViewCurrentTasksText">View Current Tasks</string>
+    <string name="lblEmployeeText">Name</string>
+    <string name="rd1Text">1 Hour</string>
+    <string name="rd2HoursTxt">2 Hours</string>
+    <string name="btnAssignText">Assign Task</string>
+    <string name="editNoteHint">Notes</string>
+    <string name="lblNoteText">Notes:</string>
+    <string name="btnAddTaskText">+ Add Task</string>
+    <string name="btnChangeEmployeeTxt">Change Employee</string>
+    <string name="defaultTime">0 mins</string>
+    <string name="HomeStr">Home</string>
+    <string name="lblWelcomeTxt">To Begin:</string>
+    <string name="lblMsgValue">To begin select an employee and choose to add a task or view their current tasks</string>
+    <string name="assignTaskDescriptionValue">Here, you can assign tasks to the selected employee. Select a task from the drop-down menu, and use the slider below it to determine how long the task will take.</string>
+    <string name="lblWeatherPageValue">Current Weather:</string>
+    <string name="txtViewtext">Read More...</string>
+
+    <string-array name="task_list">
+        <item>Cut Lawn</item>
+        <item>Shovel Sidewalk</item>
+        <item>Trim Tree</item>
+        <item>Plant Tree</item>
+        <item>Water plants</item>
+    </string-array>
+
+</resources>
